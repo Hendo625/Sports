@@ -1,410 +1,156 @@
-#EXTINF:-1,Sky Atlantic HD
-http://149.202.215.151:8080/live/home/home/665.ts
-#EXTINF:-1,Sky Cinema Box Office 3D
-http://149.202.215.151:8080/live/home/home/25536.ts
-#EXTINF:-1,Sky Cinema Box Office 1 FHD
-http://149.202.215.151:8080/live/home/home/25535.ts
-#EXTINF:-1,Sky Cinema Box Office 2 FHD
-http://149.202.215.151:8080/live/home/home/25534.ts
-#EXTINF:-1,Sky Cinema Box Office 3 FHD
-http://149.202.215.151:8080/live/home/home/25533.ts
-#EXTINF:-1,Sky Cinema Premiere HD*
-http://149.202.215.151:8080/live/home/home/10983.ts
-#EXTINF:-1,Sky Cinema Premiere HD**
-http://149.202.215.151:8080/live/home/home/13374.ts
-#EXTINF:-1,Sky Cinema Premiere
-http://149.202.215.151:8080/live/home/home/613.ts
-#EXTINF:-1,Sky Cinema Action HD*
-http://149.202.215.151:8080/live/home/home/10984.ts
-#EXTINF:-1,Sky Cinema Action
-http://149.202.215.151:8080/live/home/home/612.ts
-#EXTINF:-1,Sky Cinema Family HD*
-http://149.202.215.151:8080/live/home/home/10986.ts
-#EXTINF:-1,Sky Cinema Family HD**
-http://149.202.215.151:8080/live/home/home/13372.ts
-#EXTINF:-1,Sky Cinema Family.
-http://149.202.215.151:8080/live/home/home/610.ts
-#EXTINF:-1,Sky Cinema Disney HD*
-http://149.202.215.151:8080/live/home/home/10985.ts
-#EXTINF:-1,Sky Cinema Disney HD**
-http://149.202.215.151:8080/live/home/home/13371.ts
-#EXTINF:-1,Sky Cinema Disney.
-http://149.202.215.151:8080/live/home/home/608.ts
-#EXTINF:-1,Sky Cinema Comedy HD*
-http://149.202.215.151:8080/live/home/home/10987.ts
-#EXTINF:-1,Sky Cinema Comedy HD**
-http://149.202.215.151:8080/live/home/home/13370.ts
-#EXTINF:-1,Sky Cinema Comedy.
-http://149.202.215.151:8080/live/home/home/607.ts
-#EXTINF:-1,Sky Cinema Crime & Thriller HD*
-http://149.202.215.151:8080/live/home/home/10989.ts
-#EXTINF:-1,Sky Cinema Crime & Thriller HD**
-http://149.202.215.151:8080/live/home/home/13368.ts
-#EXTINF:-1,Sky Cinema Crime & Thriller
-http://149.202.215.151:8080/live/home/home/604.ts
-#EXTINF:-1,Sky Cinema Drama & Romance HD*
-http://149.202.215.151:8080/live/home/home/43540.ts
-#EXTINF:-1,Sky Cinema Drama & Romance HD**
-http://149.202.215.151:8080/live/home/home/10993.ts
-#EXTINF:-1,Sky Cinema Drama & Romance
-http://149.202.215.151:8080/live/home/home/9463.ts
-#EXTINF:-1,Sky Cinema Modern Greats HD*
-http://149.202.215.151:8080/live/home/home/13369.ts
-#EXTINF:-1,Sky Cinema Modern Greats
-http://149.202.215.151:8080/live/home/home/599.ts
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD*
-http://149.202.215.151:8080/live/home/home/10991.ts
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror
-http://149.202.215.151:8080/live/home/home/4954.ts
-#EXTINF:-1,Sky Cinema Select HD*
-http://149.202.215.151:8080/live/home/home/10990.ts
-#EXTINF:-1,Sky Cinema Select
-http://149.202.215.151:8080/live/home/home/4955.ts
-#EXTINF:-1,Sky Cinema Hits HD*
-http://149.202.215.151:8080/live/home/home/5475.ts
-#EXTINF:-1,Sky Cinema Showcase HD*
-http://149.202.215.151:8080/live/home/home/10988.ts
-#EXTINF:-1,Sky Cinema Superheroes HD*
-http://149.202.215.151:8080/live/home/home/10992.ts
-#EXTINF:-1,Sky Sports Box Office HD
-http://149.202.215.151:8080/live/home/home/12843.ts
-#EXTINF:-1,Sky Sports Mix HD
-http://149.202.215.151:8080/live/home/home/12779.ts
-#EXTINF:-1,Sky Sports News HD
-http://149.202.215.151:8080/live/home/home/586.ts
-#EXTINF:-1,Sky Sports News HD*
-http://149.202.215.151:8080/live/home/home/12147.ts
-#EXTINF:-1,Sky Sports News HQHD
-http://149.202.215.151:8080/live/home/home/44101.ts
-#EXTINF:-1,Sky Sports News HQHD*
-http://149.202.215.151:8080/live/home/home/44102.ts
-#EXTINF:-1,Sky Sports Main Events HD
-http://149.202.215.151:8080/live/home/home/585.ts
-#EXTINF:-1,Sky Sports Main Events SD
-http://149.202.215.151:8080/live/home/home/579.ts
-#EXTINF:-1,Sky Sports Cricket HD
-http://149.202.215.151:8080/live/home/home/584.ts
-#EXTINF:-1,Sky Sports Cricket SD
-http://149.202.215.151:8080/live/home/home/578.ts
-#EXTINF:-1,Sky Sports Action HD
-http://149.202.215.151:8080/live/home/home/583.ts
-#EXTINF:-1,Sky Sports Action SD
-http://149.202.215.151:8080/live/home/home/577.ts
-#EXTINF:-1,Sky Sports Golf HD
-http://149.202.215.151:8080/live/home/home/582.ts
-#EXTINF:-1,Sky Sports Golf SD
-http://149.202.215.151:8080/live/home/home/576.ts
-#EXTINF:-1,Sky Sports Premier League HD
-http://149.202.215.151:8080/live/home/home/581.ts
-#EXTINF:-1,Sky Sports Premier League SD
-http://149.202.215.151:8080/live/home/home/575.ts
-#EXTINF:-1,Sky Sport Arena HD*
-http://149.202.215.151:8080/live/home/home/32740.ts
-#EXTINF:-1,Sky Sport Arena HD
-http://149.202.215.151:8080/live/home/home/32739.ts
-#EXTINF:-1,Sky Sport Arena SD
-http://149.202.215.151:8080/live/home/home/32738.ts
-#EXTINF:-1,Sky Sport Football HD*
-http://149.202.215.151:8080/live/home/home/32743.ts
-#EXTINF:-1,Sky Sport Football HD
-http://149.202.215.151:8080/live/home/home/32742.ts
-#EXTINF:-1,Sky Sport Football SD
-http://149.202.215.151:8080/live/home/home/32741.ts
-#EXTINF:-1,Sky Sports F1 HD
-http://149.202.215.151:8080/live/home/home/580.ts
-#EXTINF:-1,Sky Sports F1 SD
-http://149.202.215.151:8080/live/home/home/574.ts
-#EXTINF:-1,BT Sports 1 HD
-http://149.202.215.151:8080/live/home/home/12126.ts
-#EXTINF:-1,BT Sports 1 HD*
-http://149.202.215.151:8080/live/home/home/11375.ts
-#EXTINF:-1,BT Sports 1 SD
-http://149.202.215.151:8080/live/home/home/11787.ts
-#EXTINF:-1,BT Sports 2 HD
-http://149.202.215.151:8080/live/home/home/572.ts
-#EXTINF:-1,BT Sports 2 HD*
-http://149.202.215.151:8080/live/home/home/11374.ts
-#EXTINF:-1,BT Sports 2 SD
-http://149.202.215.151:8080/live/home/home/11786.ts
-#EXTINF:-1,BT Sports 3 HD
-http://149.202.215.151:8080/live/home/home/4931.ts
-#EXTINF:-1,BT Sports 3 HD*
-http://149.202.215.151:8080/live/home/home/11373.ts
-#EXTINF:-1,BT Sports 3 SD
-http://149.202.215.151:8080/live/home/home/11785.ts
-#EXTINF:-1,BT Sport ESPN HD
-http://149.202.215.151:8080/live/home/home/12123.ts
-#EXTINF:-1,BT Sports ESPN HD**
-http://149.202.215.151:8080/live/home/home/4681.ts
-#EXTINF:-1,BT Sports ESPN
-http://149.202.215.151:8080/live/home/home/11784.ts
-#EXTINF:-1,BT Sport X1 HD
-http://149.202.215.151:8080/live/home/home/4932.ts
-#EXTINF:-1,BT Sport Extra 1
-http://149.202.215.151:8080/live/home/home/12416.ts
-#EXTINF:-1,BT Sport Extra 2
-http://149.202.215.151:8080/live/home/home/12415.ts
-#EXTINF:-1,BT Sport Extra 3
-http://149.202.215.151:8080/live/home/home/12414.ts
-#EXTINF:-1,BT Sport Extra 4
-http://149.202.215.151:8080/live/home/home/12413.ts
-#EXTINF:-1,BT Sport Extra 5
-http://149.202.215.151:8080/live/home/home/12412.ts
-#EXTINF:-1,BT Sport Extra 6
-http://149.202.215.151:8080/live/home/home/12411.ts
-#EXTINF:-1,BT Sports Mosaic
-http://149.202.215.151:8080/live/home/home/13112.ts
-#EXTINF:-1,British Eurosport HD
-http://149.202.215.151:8080/live/home/home/11002.ts
-#EXTINF:-1,British Eurosport 2 HD
-http://149.202.215.151:8080/live/home/home/11003.ts
-#EXTINF:-1,EIR Sports 1
-http://149.202.215.151:8080/live/home/home/11535.ts
-#EXTINF:-1,EIR Sports 2 HD
-http://149.202.215.151:8080/live/home/home/11536.ts
-#EXTINF:-1,Premier Sports HD
-http://149.202.215.151:8080/live/home/home/568.ts
-#EXTINF:-1,Boxnation SD
-http://149.202.215.151:8080/live/home/home/17752.ts
-#EXTINF:-1,Motorsport TV
-http://149.202.215.151:8080/live/home/home/12170.ts
-#EXTINF:-1,William Hill TV
-http://149.202.215.151:8080/live/home/home/19369.ts
-#EXTINF:-1,At The Races
-http://149.202.215.151:8080/live/home/home/150.ts
-#EXTINF:-1,RACING UK HD
-http://149.202.215.151:8080/live/home/home/560.ts
-#EXTINF:-1,Racing UK HD 1080P
-http://149.202.215.151:8080/live/home/home/12392.ts
-#EXTINF:-1,Redbull TV HD
-http://149.202.215.151:8080/live/home/home/30321.ts
-#EXTINF:-1,MUTV HD*
-http://149.202.215.151:8080/live/home/home/12398.ts
-#EXTINF:-1,Liverpool FC TV HD 1080p
-http://149.202.215.151:8080/live/home/home/12120.ts
-#EXTINF:-1,Liverpool FC TV
-http://149.202.215.151:8080/live/home/home/11463.ts
-#EXTINF:-1,Chelsea TV
-http://149.202.215.151:8080/live/home/home/8528.ts
-#EXTINF:-1,US: CBS HD 1080p
-http://149.202.215.151:8080/live/home/home/7713.ts
-#EXTINF:-1,US: ABC News West HD
-http://149.202.215.151:8080/live/home/home/5617.ts
-#EXTINF:-1,US: HBO Comedy HD
-http://149.202.215.151:8080/live/home/home/9710.ts
-#EXTINF:-1,US: HBO HD
-http://149.202.215.151:8080/live/home/home/9708.ts
-#EXTINF:-1,US: NDTV HD
-http://149.202.215.151:8080/live/home/home/8395.ts
-#EXTINF:-1,US: HBO Zone HD
-http://149.202.215.151:8080/live/home/home/8369.ts
-#EXTINF:-1,US: HG TV HD
-http://149.202.215.151:8080/live/home/home/8383.ts
-#EXTINF:-1,US: KTLA 5 HD
-http://149.202.215.151:8080/live/home/home/5668.ts
-#EXTINF:-1,US: C-Span 3 HD
-http://149.202.215.151:8080/live/home/home/5674.ts
-#EXTINF:-1,US: C-Span 2 HD
-http://149.202.215.151:8080/live/home/home/5675.ts
-#EXTINF:-1,US: C-Span 1 HD
-http://149.202.215.151:8080/live/home/home/5676.ts
-#EXTINF:-1,US: Bloomberg HD
-http://149.202.215.151:8080/live/home/home/5526.ts
-#EXTINF:-1,US: FloridaTV HD
-http://149.202.215.151:8080/live/home/home/5605.ts
-#EXTINF:-1,US: History USA HD
-http://149.202.215.151:8080/live/home/home/8392.ts
-#EXTINF:-1,US: E! Entertainment USA HD
-http://149.202.215.151:8080/live/home/home/8393.ts
-#EXTINF:-1,US: A&E HD 1080p
-http://149.202.215.151:8080/live/home/home/19221.ts
-#EXTINF:-1,US: ABC HD 1080p
-http://149.202.215.151:8080/live/home/home/19220.ts
-#EXTINF:-1,US: ABC News HD
-http://149.202.215.151:8080/live/home/home/19219.ts
-#EXTINF:-1,US: Animal Planet HD
-http://149.202.215.151:8080/live/home/home/19218.ts
-#EXTINF:-1,US: BNN HD
-http://149.202.215.151:8080/live/home/home/19217.ts
-#EXTINF:-1,US: Bavo HD
-http://149.202.215.151:8080/live/home/home/19216.ts
-#EXTINF:-1,US: CBC HD
-http://149.202.215.151:8080/live/home/home/19215.ts
-#EXTINF:-1,US: CBC 2 US
-http://149.202.215.151:8080/live/home/home/19214.ts
-#EXTINF:-1,US: CNBC HD
-http://149.202.215.151:8080/live/home/home/19210.ts
-#EXTINF:-1,US: CNN HD
-http://149.202.215.151:8080/live/home/home/19209.ts
-#EXTINF:-1,US: Comedy Central HD
-http://149.202.215.151:8080/live/home/home/19207.ts
-#EXTINF:-1,US: MAX East HD
-http://149.202.215.151:8080/live/home/home/19206.ts
-#EXTINF:-1,US: Cinemax 5 Star Max HD
-http://149.202.215.151:8080/live/home/home/19205.ts
-#EXTINF:-1,US: DIY Network HD
-http://149.202.215.151:8080/live/home/home/19204.ts
-#EXTINF:-1,US: FOX HD
-http://149.202.215.151:8080/live/home/home/19203.ts
-#EXTINF:-1,US: Discovery Velocity HD
-http://149.202.215.151:8080/live/home/home/19202.ts
-#EXTINF:-1,US: AMC HD
-http://149.202.215.151:8080/live/home/home/19200.ts
-#EXTINF:-1,US: CBN HD
-http://149.202.215.151:8080/live/home/home/19201.ts
-#EXTINF:-1,US: Cartoon Network HD
-http://149.202.215.151:8080/live/home/home/19198.ts
-#EXTINF:-1,US: Destination America HD
-http://149.202.215.151:8080/live/home/home/19197.ts
-#EXTINF:-1,US: Discovery HD
-http://149.202.215.151:8080/live/home/home/19196.ts
-#EXTINF:-1,US: Freeform HD
-http://149.202.215.151:8080/live/home/home/19195.ts
-#EXTINF:-1,US: Fox News HD
-http://149.202.215.151:8080/live/home/home/19194.ts
-#EXTINF:-1,US: FX HD
-http://149.202.215.151:8080/live/home/home/19193.ts
-#EXTINF:-1,US: FXX HD
-http://149.202.215.151:8080/live/home/home/19192.ts
-#EXTINF:-1,US: History HD
-http://149.202.215.151:8080/live/home/home/19190.ts
-#EXTINF:-1,US: Investigation Discovery HD
-http://149.202.215.151:8080/live/home/home/19189.ts
-#EXTINF:-1,US: Spike HD
-http://149.202.215.151:8080/live/home/home/19188.ts
-#EXTINF:-1,US: Science Channel HD
-http://149.202.215.151:8080/live/home/home/19187.ts
-#EXTINF:-1,US: Nat Geo HD
-http://149.202.215.151:8080/live/home/home/19185.ts
-#EXTINF:-1,US: Starz Cinema HD
-http://149.202.215.151:8080/live/home/home/19184.ts
-#EXTINF:-1,US: Starz Encore HD
-http://149.202.215.151:8080/live/home/home/19183.ts
-#EXTINF:-1,US: Starz HD
-http://149.202.215.151:8080/live/home/home/19182.ts
-#EXTINF:-1,US: Syfy HD
-http://149.202.215.151:8080/live/home/home/19181.ts
-#EXTINF:-1,US: TBS HD
-http://149.202.215.151:8080/live/home/home/19180.ts
-#EXTINF:-1,US: TLC HD
-http://149.202.215.151:8080/live/home/home/19179.ts
-#EXTINF:-1,US: TNT HD
-http://149.202.215.151:8080/live/home/home/19178.ts
-#EXTINF:-1,US: USA Network HD
-http://149.202.215.151:8080/live/home/home/19177.ts
-#EXTINF:-1,US: Velocity HD
-http://149.202.215.151:8080/live/home/home/19176.ts
-#EXTINF:-1,US: Fuel TV HD
-http://149.202.215.151:8080/live/home/home/19175.ts
-#EXTINF:-1,US: ABC Spark HD
-http://149.202.215.151:8080/live/home/home/15369.ts
-#EXTINF:-1,US: D.I.Y Network HD 720p
-http://149.202.215.151:8080/live/home/home/15367.ts
-#EXTINF:-1,US: Boomerang HD
-http://149.202.215.151:8080/live/home/home/15301.ts
-#EXTINF:-1,US: CHCH HD
-http://149.202.215.151:8080/live/home/home/15366.ts
-#EXTINF:-1,US: City Vancouver HD
-http://149.202.215.151:8080/live/home/home/15365.ts
-#EXTINF:-1,US: Comedy Gold HD
-http://149.202.215.151:8080/live/home/home/15364.ts
-#EXTINF:-1,US: CP24 HD
-http://149.202.215.151:8080/live/home/home/15362.ts
-#EXTINF:-1,US: CP24 HD2
-http://149.202.215.151:8080/live/home/home/15329.ts
-#EXTINF:-1,US: CTV Toronto HD
-http://149.202.215.151:8080/live/home/home/15361.ts
-#EXTINF:-1,US: CTV Vancouver HD
-http://149.202.215.151:8080/live/home/home/15333.ts
-#EXTINF:-1,US: Disney HD
-http://149.202.215.151:8080/live/home/home/15334.ts
-#EXTINF:-1,US: CW HD
-http://149.202.215.151:8080/live/home/home/15335.ts
-#EXTINF:-1,US: Fox  News HD
-http://149.202.215.151:8080/live/home/home/15360.ts
-#EXTINF:-1,US: Cartoon Network HD USA
-http://149.202.215.151:8080/live/home/home/15359.ts
-#EXTINF:-1,US: G4 HD
-http://149.202.215.151:8080/live/home/home/15358.ts
-#EXTINF:-1,US: NBC Toronto
-http://149.202.215.151:8080/live/home/home/15357.ts
-#EXTINF:-1,US: Movies HD
-http://149.202.215.151:8080/live/home/home/15302.ts
-#EXTINF:-1,US: MovieTime HD
-http://149.202.215.151:8080/live/home/home/15356.ts
-#EXTINF:-1,US: NBC HD
-http://149.202.215.151:8080/live/home/home/15332.ts
-#EXTINF:-1,US: TVO Kids HD
-http://149.202.215.151:8080/live/home/home/15355.ts
-#EXTINF:-1,US: HBO Family HD
-http://149.202.215.151:8080/live/home/home/15328.ts
-#EXTINF:-1,US: Peach Tree TV HD
-http://149.202.215.151:8080/live/home/home/15354.ts
-#EXTINF:-1,US: RDI HD
-http://149.202.215.151:8080/live/home/home/15353.ts
-#EXTINF:-1,US: RDS 2 HD
-http://149.202.215.151:8080/live/home/home/15352.ts
-#EXTINF:-1,US: Silver Screen Classics HD
-http://149.202.215.151:8080/live/home/home/15351.ts
-#EXTINF:-1,US: Super Ecran 1 HD
-http://149.202.215.151:8080/live/home/home/15349.ts
-#EXTINF:-1,US: Super Ecran 2 HD
-http://149.202.215.151:8080/live/home/home/15348.ts
-#EXTINF:-1,US: Super Ecran 3 HD
-http://149.202.215.151:8080/live/home/home/15347.ts
-#EXTINF:-1,US: Super Ecran 4 HD
-http://149.202.215.151:8080/live/home/home/15346.ts
-#EXTINF:-1,US: Nick HD
-http://149.202.215.151:8080/live/home/home/15344.ts
-#EXTINF:-1,US: Cinemax HD
-http://149.202.215.151:8080/live/home/home/19212.ts
-#EXTINF:-1,US: WGN 9 HD
-http://149.202.215.151:8080/live/home/home/15340.ts
-#EXTINF:-1,US: AFN Movie HD
-http://149.202.215.151:8080/live/home/home/26072.ts
-#EXTINF:-1,US: AFN News HD
-http://149.202.215.151:8080/live/home/home/26071.ts
-#EXTINF:-1,US: AFN Prime Atlantic HD
-http://149.202.215.151:8080/live/home/home/26070.ts
-#EXTINF:-1,US: AFN Sports
-http://149.202.215.151:8080/live/home/home/26068.ts
-#EXTINF:-1,US: AFN Sports 2 HD
-http://149.202.215.151:8080/live/home/home/26067.ts
-#EXTINF:-1,US: AFN Sports HD
-http://149.202.215.151:8080/live/home/home/26066.ts
-#EXTINF:-1,US: Cinemax Action HD
-http://149.202.215.151:8080/live/home/home/26075.ts
-#EXTINF:-1,US: Cinemax Action Max HD
-http://149.202.215.151:8080/live/home/home/26074.ts
-#EXTINF:-1,US: Cinemax East HD
-http://149.202.215.151:8080/live/home/home/26073.ts
-#EXTINF:-1,US: Univision Deportes HD US
-http://149.202.215.151:8080/live/home/home/26069.ts
-#EXTINF:-1,US: Showtime Extream HD
-http://149.202.215.151:8080/live/home/home/26064.ts
-#EXTINF:-1,US: Showtime HD
-http://149.202.215.151:8080/live/home/home/26065.ts
-#EXTINF:-1,US: Showtime Showcase HD
-http://149.202.215.151:8080/live/home/home/26063.ts
-#EXTINF:-1,US: Starz Comedy HD
-http://149.202.215.151:8080/live/home/home/26078.ts
-#EXTINF:-1,US: Starz East HD
-http://149.202.215.151:8080/live/home/home/26077.ts
-#EXTINF:-1,US: Starz Edge HD
-http://149.202.215.151:8080/live/home/home/26076.ts
-#EXTINF:-1,S4C HD (uk only or vpn)
-http://149.202.215.151:8080/live/home/home/31124.ts
-#EXTINF:-1,SFR Sports 4 UHD 4K
-http://149.202.215.151:8080/live/home/home/15607.ts
-#EXTINF:-1,Sky Sports Action HD*
-http://149.202.215.151:8080/live/home/home/12242.ts
-#EXTINF:-1,Sky Sports Cricket HD*
-http://149.202.215.151:8080/live/home/home/12243.ts
-#EXTINF:-1,Sky Sports F1 HD*
-http://149.202.215.151:8080/live/home/home/12239.ts
-#EXTINF:-1,Sky Sports Main Events HD*
-http://149.202.215.151:8080/live/home/home/12244.ts
-#EXTINF:-1,Sky Sports Premier League HD*
-http://149.202.215.151:8080/live/home/home/12240.ts
-#EXTINF:-1,Sky Sports Golf HD*
-http://149.202.215.151:8080/live/home/home/12241.ts
+#EXTINF:-1,SKY Sport news UK
+http://cdng.pubcdn.tn/iptv/ch1053?code=170132716026200
+#EXTINF:-1,SKY Sport Football UK
+http://cdng.pubcdn.tn/iptv/ch922?code=170132716026200
+#EXTINF:-1,Sky Sport Premium UK
+http://cdng.pubcdn.tn/iptv/ch937?code=170132716026200
+#EXTINF:-1,SKY Sport Golf UK
+http://cdng.pubcdn.tn/iptv/ch914?code=170132716026200
+#EXTINF:-1,SKY Sport Action UK
+http://cdng.pubcdn.tn/iptv/ch915?code=170132716026200
+#EXTINF:-1,SKY Sport Criket UK
+http://cdng.pubcdn.tn/iptv/ch916?code=170132716026200
+#EXTINF:-1,Sport Mix UK
+http://cdng.pubcdn.tn/iptv/ch931?code=170132716026200
+#EXTINF:-1,BT Sport 1
+http://cdng.pubcdn.tn/iptv/ch1828?code=170132716026200
+#EXTINF:-1,BT Sport 2
+http://cdng.pubcdn.tn/iptv/ch1829?code=170132716026200
+#EXTINF:-1,BT Sport 3
+http://cdng.pubcdn.tn/iptv/ch1830?code=170132716026200
+#EXTINF:-1,BT Sport Europe
+http://cdng.pubcdn.tn/iptv/ch1831?code=170132716026200
+#EXTINF:-1,Setana Sport 1
+http://cdng.pubcdn.tn/iptv/ch1832?code=170132716026200
+#EXTINF:-1,ESPN
+http://cdng.pubcdn.tn/iptv/ch1833?code=170132716026200
+#EXTINF:-1,Premiere Sport UK
+http://cdng.pubcdn.tn/iptv/ch1834?code=170132716026200
+#EXTINF:-1,Sky Sport F1 UK
+http://cdng.pubcdn.tn/iptv/ch930?code=170132716026200
+#EXTINF:-1,Eurosport 1 UK
+http://cdng.pubcdn.tn/iptv/ch929?code=170132716026200
+#EXTINF:-1,Eurosport 2
+http://cdng.pubcdn.tn/iptv/ch918?code=170132716026200
+#EXTINF:-1,Front Runner UK
+http://cdng.pubcdn.tn/iptv/ch1858?code=170132716026200
+#EXTINF:-1,Front runner 2 UK
+http://cdng.pubcdn.tn/iptv/ch1944?code=170132716026200
+#EXTINF:-1,Free Sport UK
+http://cdng.pubcdn.tn/iptv/ch1852?code=170132716026200
+#EXTINF:-1,Manchester Ud. TV
+http://cdng.pubcdn.tn/iptv/ch927?code=170132716026200
+#EXTINF:-1,Sony Movies UK
+http://cdng.pubcdn.tn/iptv/ch1700?code=170132716026200
+#EXTINF:-1,SKY One UK
+http://cdng.pubcdn.tn/iptv/ch1809?code=170132716026200
+#EXTINF:-1,SKY two UK
+http://cdng.pubcdn.tn/iptv/ch1810?code=170132716026200
+#EXTINF:-1,Sky Select UK
+http://cdng.pubcdn.tn/iptv/ch1055?code=170132716026200
+#EXTINF:-1,Sky Thriller UK
+http://cdng.pubcdn.tn/iptv/ch1054?code=170132716026200
+#EXTINF:-1,Sky Family UK
+http://cdng.pubcdn.tn/iptv/ch924?code=170132716026200
+#EXTINF:-1,Sky Comedy UK
+http://cdng.pubcdn.tn/iptv/ch919?code=170132716026200
+#EXTINF:-1,Sky Action UK
+http://cdng.pubcdn.tn/iptv/ch917?code=170132716026200
+#EXTINF:-1,Sky Select UK
+http://cdng.pubcdn.tn/iptv/ch909?code=170132716026200
+#EXTINF:-1,Sky Horror UK
+http://cdng.pubcdn.tn/iptv/ch908?code=170132716026200
+#EXTINF:-1,Sky Premiere UK
+http://cdng.pubcdn.tn/iptv/ch907?code=170132716026200
+#EXTINF:-1,UK | -=-=-= UK Sport =-=-=-
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26425
+#EXTINF:-1,UK | Eurosport 1  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26426
+#EXTINF:-1,UK | Eurosport 2  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26427
+#EXTINF:-1,UK | BT Sport 1  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26428
+#EXTINF:-1,UK | BT Sport 1  By iptv4free.com Backup
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26429
+#EXTINF:-1,UK | BT Sport 2 F By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26430
+#EXTINF:-1,UK | BT Sport 2 F By iptv4free.com Backup
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26431
+#EXTINF:-1,UK | BT Sport 3 F By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26432
+#EXTINF:-1,UK | BT Sport ESPN  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26433
+#EXTINF:-1,UK | BT Sport ESPN Backup F By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26434
+#EXTINF:-1,UK | Eir Sport 1  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26435
+#EXTINF:-1,UK | Eir Sport 2  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26436
+#EXTINF:-1,UK | Sky Sports News F By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26437
+#EXTINF:-1,UK | Sky Sports News F By iptv4free.com Backup
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26438
+#EXTINF:-1,UK | Sky Sports Main Event F By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26439
+#EXTINF:-1,UK | Sky Sports Football F By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26440
+#EXTINF:-1,UK | Sky Sports Arena F By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26441
+#EXTINF:-1,UK | Sky Sports Action F By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26442
+#EXTINF:-1,UK | Sky Sports MIX  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26443
+#EXTINF:-1,UK | Sky Sports F1  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26444
+#EXTINF:-1,UK | Sky Sports Cricket  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26445
+#EXTINF:-1,UK | Sky Sports Cricket  By iptv4free.com Backup
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26446
+#EXTINF:-1,UK | Sky Sports Golf F By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26447
+#EXTINF:-1,UK | Sky Sports Golf F By iptv4free.com Backup
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26448
+#EXTINF:-1,UK | Chelsea TV  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26449
+#EXTINF:-1,UK | MU TV F By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26450
+#EXTINF:-1,UK | LFC TV
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26451
+#EXTINF:-1,UK | Premier Sports  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26452
+#EXTINF:-1,UK | Box Nation
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26453
+#EXTINF:-1,UK | -=-=-= UK Movies =-=-=-
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26454
+#EXTINF:-1,UK | Box Office 1
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26455
+#EXTINF:-1,UK | Box Office 2
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26456
+#EXTINF:-1,UK | Box Office 3
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26457
+#EXTINF:-1,UK | Box Office 4
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26458
+#EXTINF:-1,UK | Box Office 5
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26459
+#EXTINF:-1,UK | Box Office 6
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26460
+#EXTINF:-1,UK | Box Office 7
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26461
+#EXTINF:-1,UK | Box Office 8
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26462
+#EXTINF:-1,UK | Box Office 9
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26463
+#EXTINF:-1,UK | Box Office 10
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26464
+#EXTINF:-1,UK | Sky Hits  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26465
+#EXTINF:-1,UK | Sky Cinema Thriller  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26466
+#EXTINF:-1,UK | Sky Cinema Thriller  By iptv4free.com Backup
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26467
+#EXTINF:-1,UK | Sky Cinema Greats  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26468
+#EXTINF:-1,UK | Sky Cinema Greats Backup
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26469
+#EXTINF:-1,UK | Sky Cinema Family  By iptv4free.com
+http://espana-premium.ddns.net:8000/SEBAS/POSO/26470
