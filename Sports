@@ -1,3 +1,10 @@
 #EXTM3U
 #EXTINF:-1,UK : RACING TV2
 http://live.ontarget.live:8080/Amanda1/Amanda1/57792
+EXTINF:-1,UK: Ladbrokes TV 1
+http://live.ontarget.live:8080/Amanda1/Amanda1/57129
+#EXTINF:-1,UK: Ladbrokes TV 2
+#EXTINF:-1,UK: RACING TV
+http://live.ontarget.live:8080/Amanda1/Amanda1/8001
+#EXTINF:-1,UK: Racing TV  By iptv4free.com
+http://live.ontarget.live:8080/Amanda1/Amanda1/45006
